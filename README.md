@@ -1,2 +1,2 @@
 # Python-Lookup
-Look-up code for when you forget a detail 
+Backup code for when you need a little brush up on the fundamentals
