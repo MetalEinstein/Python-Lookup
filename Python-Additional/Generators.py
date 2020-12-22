@@ -33,3 +33,11 @@ def squared_numbers_generator(nums):
 my_squared_nums = squared_numbers_generator(my_nums)
 for i in my_squared_nums:
     print(i)
+
+    
+# The above code can also be simplified like so:
+"""
+my_squared_nums = (num*num for num in my_nums)  # The "()" brackets creates an generator 
+for i in my_squared_nums:
+    print(i)
+"""    
